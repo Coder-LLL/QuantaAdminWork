@@ -1,0 +1,79 @@
+{
+  "id": "2944913",
+  "name": "quanta官网",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18170163",
+      "name": "任务",
+      "font_class": "gantt",
+      "unicode": "e977",
+      "unicode_decimal": 59767
+    },
+    {
+      "icon_id": "1206",
+      "name": "节日",
+      "font_class": "jieri",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "167191",
+      "name": "信号塔",
+      "font_class": "xinhaota",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "421115",
+      "name": "组织部门",
+      "font_class": "zuzhibumen",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "1240761",
+      "name": "项目",
+      "font_class": "xiangmu",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "1330741",
+      "name": "会员发展趋势",
+      "font_class": "huiyuanfazhanqushi",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "2675009",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "4283152",
+      "name": "画画",
+      "font_class": "huahua",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "8655870",
+      "name": "活动",
+      "font_class": "huodong",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "8949026",
+      "name": "人员",
+      "font_class": "renyuan",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    }
+  ]
+}
